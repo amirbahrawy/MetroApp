@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#FF2196F3</color>
+    <color name="colorAccent">#FF2196F3</color>
+    <color name="colorRed">#D8311B</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#FFD600</color>
+    <color name="colorBox">#11000000</color>
+    <color name="colorttext">#BEBBBB</color>
+    <color name="colorTap">#3D5069</color>
+    <color name="tab">#2C70CE</color>
+    <color name="items">#FF2196F3</color>
+</resources>
+
+

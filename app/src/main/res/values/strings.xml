@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">BIGLIETTO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="first_line">
+        <item>New Marg</item>
+        <item>El Marg</item>
+        <item>Azbet El Nakhl</item>
+        <item>Ain Shames</item>
+        <item>El Matrya</item>
+        <item>Helmyt El Zayton</item>
+        <item>Haddayk El Zaayton</item>
+        <item>Saraya El Koba</item>
+        <item>Hammat El Koba</item>
+        <item>Kobrry El Koba</item>
+        <item>Manshit El Sadr</item>
+        <item>El Demrdash</item>
+        <item>Ghamra</item>
+        <item>El Shohadaa</item>
+        <item>Ahmed Orabi</item>
+        <item>Naser</item>
+        <item>Saddat</item>
+        <item>Saad Zaghlol</item>
+        <item>El Sayeda Zienb</item>
+        <item>El Malk El Saleh </item>
+        <item>Mari Gargis</item>
+        <item>El Zahraa</item>
+        <item>Dar El Salam</item>
+        <item>Haddayk El Madii</item>
+        <item>El Maadi</item>
+        <item>Thakanat El Maadi</item>
+        <item>Tora El Balad </item>
+        <item>Kozzika</item>
+        <item>Tora Al Asmant</item>
+        <item>El Maasara</item>
+        <item>Haddayk Helwan</item>
+        <item>Wadi Hoof</item>
+        <item>Helwan University</item>
+        <item>Ain Helwan</item>
+        <item>Helwan</item>
+
+
+    </string-array>
+    <string-array name="second_line">
+        <item>Shubra</item>
+        <item>Koleyt El Zeraa</item>
+        <item>El Mazllat</item>
+        <item>El Khalafawi</item>
+        <item>Sant Tereza</item>
+        <item>Rod El Farag</item>
+        <item>Masra</item>
+        <item>El Shohadaa</item>
+        <item>Atbaa</item>
+        <item>Mohamed Nagib</item>
+        <item>Saddat</item>
+        <item>Opera</item>
+        <item>Dokki</item>
+        <item>El Bohoos</item>
+        <item>Cairo University</item>
+        <item>Faysal</item>
+        <item>Giza</item>
+        <item>Om El Masryeen</item>
+        <item>Sakiat Mekki</item>
+        <item>El Monib</item>
+    </string-array>
+    <string-array name="Third_line">
+        <item>Nady El Shams</item>
+        <item>Alf Maskn</item>
+        <item>Heliopolis</item>
+        <item>Haron</item>
+        <item>Al Ahram</item>
+        <item>Koleyet El Banat</item>
+        <item>Cairo Stadium</item>
+        <item>Cairo Fairgrounds</item>
+        <item>abbassiya</item>
+        <item>Abdou Pasha</item>
+        <item>El Geish</item>
+        <item>Bab El Shaaria</item>
+        <item>Ataba</item>
+    </string-array>
+
+
+</resources>

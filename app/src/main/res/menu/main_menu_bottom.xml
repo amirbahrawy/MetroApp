@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/staions"
+        android:title="Staions"
+        android:icon="@drawable/ic_subway"
+        />
+    <item
+        android:id="@+id/metro_map"
+        android:title="Metro Map"
+        android:icon="@drawable/ic_metromap"
+        />
+    <item
+        android:id="@+id/booking"
+        android:title="Booking"
+        android:icon="@drawable/ic_online_booking"
+        />
+    <item
+        android:id="@+id/ticket"
+        android:title="My Ticket"
+        android:icon="@drawable/ic_ticket"
+        />
+</menu>

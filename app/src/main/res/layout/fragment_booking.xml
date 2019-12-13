@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".BookingFragment">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="From :"
+                android:layout_marginLeft="15dp"
+                android:textColor="@color/tab"
+                android:textSize="18dp"
+                android:textStyle="bold"
+
+                >
+
+            </TextView>
+            <Spinner
+                android:id="@+id/From"
+                android:layout_width="0dp"
+                android:layout_weight="3"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text=" To :   "
+                android:textColor="@color/tab"
+                android:textSize="18dp"
+                android:layout_marginLeft="15dp"
+                android:textStyle="bold"
+                >
+
+            </TextView>
+            <Spinner
+                android:id="@+id/To"
+                android:layout_width="0dp"
+                android:layout_weight="3"
+                android:layout_height="wrap_content"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="No of Staions:  "
+                android:layout_marginLeft="15dp"
+                android:textSize="18dp"
+                android:textColor="@color/tab"
+                android:textStyle="bold"
+                >
+            </TextView>
+            <TextView
+                android:id="@+id/no_stations"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" 35"
+                android:textSize="20dp"
+                android:textColor="@color/tab"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:gravity="top"
+            android:layout_marginTop="18dp"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Price:    "
+                android:layout_marginLeft="15dp"
+                android:textSize="18dp"
+                android:textColor="@color/tab"
+                android:textStyle="bold"
+                >
+            </TextView>
+            <TextView
+                android:id="@+id/cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10 LE"
+                android:gravity="start"
+                android:textSize="20dp"
+                android:textColor="@color/tab"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="top|center"
+            android:layout_marginTop="25dp"
+            >
+
+            <TextView
+                android:id="@+id/pay"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:text="Pay"
+                android:padding="8dp"
+                android:textColor="@color/colorWhite"
+                android:textSize="22sp"
+                android:background="@drawable/btn_design"
+                android:gravity="center"
+                />
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="2"/>
+    </LinearLayout>
+</RelativeLayout>
+
+
+</FrameLayout>
