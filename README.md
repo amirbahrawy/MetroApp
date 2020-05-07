@@ -2,9 +2,9 @@
 This app is an idea for booking metro tickets when you pay the app generate QrCode which can join the metro with it and also make Qr reader app that decide who can pass with the qrCode
 # Features
 1- Responsive design.
-2-Room Database
-3- Firebase Auth
-4-AlarmManger&BroadcastReciver
+2-RecyclerView&Tablayout
+2-Generate QRCode
+3- Firebase Database
 
 # Dependencies:
 ```
