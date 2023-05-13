@@ -1,5 +1,5 @@
 # MetroApp
-This app is an idea for booking metro tickets when you pay the app generate QrCode which can join the metro with it and also make Qr reader app that decide who can pass with the qrCode
+The Metro app is a convenient and efficient way for users to reserve tickets for the metro online. With the app, users can easily access all the metro stations and calculate the distance and price between any two stations. The app also offers a QRCode feature, which allows users to quickly and easily purchase and display their tickets. This feature helps to streamline the ticketing process and reduce waiting times for passengers. The app is user-friendly and easy to navigate, making it an essential tool for any commuter using the metro system.
 # Features
 1- Responsive design.
 2-RecyclerView&Tablayout
